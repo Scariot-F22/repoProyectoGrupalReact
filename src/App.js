@@ -1,4 +1,5 @@
-import NavBar from "./navBar/NavBar";
+import Card from "./Components/Card/Card";
+import NavBar from "./Components/NavBar/NavBar";
 
 function App() {
   return (

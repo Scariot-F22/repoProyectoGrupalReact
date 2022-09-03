@@ -1,7 +1,7 @@
 import { NavLink, unstable_HistoryRouter } from "react-router-dom";
 import { HiOutlineUser, HiOutlineSearch, HiOutlineShoppingCart, HiMenu, HiX, HiChevronRight } from "react-icons/hi";
 import { stylesNavBar } from "./StylesNav";
-import { itemsLInksNavBar } from "./ItemsLinksNavBar";
+import { itemsLInksNavBar } from "../../Data/dataLinksNavbar";
 import { useState } from "react";
 
 const NavBar = () => {
