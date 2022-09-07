@@ -41,19 +41,19 @@ const NavBar = () => {
 
         {/*boton hamburguesa*/}
         <div className="block lg:hidden">
-          <button id='boton' onClick={handleVisibleHamburger} className="flex items-center px-3 py-2 text-teal-200 border border-teal-400 rounded hover:text-white hover:border-white">
+          <button onClick={handleVisibleHamburger} className="flex items-center px-3 py-2 text-teal-200 border border-teal-400 rounded hover:text-white hover:border-white">
             {visibleHamburger ? <HiX className="w-3 h-3 delay-1000 fill-current" /> : <HiMenu className="w-3 h-3 delay-1000 fill-current" />}
           </button>
         </div>
 
-        <div id='menu' className="flex-grow block w-full lg:flex lg:items-center lg:w-auto">
+        <div className="flex-grow block w-full lg:flex lg:items-center lg:w-auto">
           <div className="flex flex-col-reverse flex-wrap w-full lg:flex-row lg:justify-end">
 
             {/* visibilidad modo movile(boton hamburguesa) */}
 
             {visibleHamburger && <div className="pt-2 text-md lg:flex-grow h-96">
               {itemsMovile.map(i => <button className="flex items-center justify-between w-full my-6 text-teal-200 border-b border-gray-300 hover:text-white">
-                <span key={i.id} className="py-4">{i.item}</span>  <HiChevronRight className="text-2xl" />
+                <span  className="py-4">{i.item}</span>  <HiChevronRight className="text-2xl" />
               </button>)}
             </div>}
 

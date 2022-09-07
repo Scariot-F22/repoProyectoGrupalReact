@@ -1,22 +1,21 @@
 import { dataSections } from "../../Data/dataSections";
+import ButtonCard from "./ButtonCard";
+
+
 const Card = () => {
     return (
 
-        <div className="w-full max-w-sm bg-white rounded-lg shadow-md dark:bg-gray-800 dark:border-gray-700">
+        <div className={container}>
             <a href="#">
-                <img className="p-8 rounded-t-lg" src={dataSections.cuidadoPersonal[0].imagen} alt="product image" />
+                <img className={img} key={dataSections.cuidadoPersonal.id} src={dataSections.cuidadoPersonal[3].imagen} alt="product image" />
             </a>
-            <div className="px-5 pb-5">
-                <a href="#">
-                    <h5 className="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">{}</h5>
-                </a>
-                <div class="flex items-center mt-2.5 mb-5">
-                    
-                    <span class="bg-blue-100 text-blue-800 text-xs font-semibold mr-2 px-2.5 py-0.5 rounded dark:bg-blue-200 dark:text-blue-800 ml-3">5.0</span>
-                </div>
-                <div className="flex items-center justify-between">
-                    <span className="text-3xl font-bold text-gray-900 dark:text-white">$599</span>
-                    <a href="#" className="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Add to cart</a>
+            <div className={containerDescription}>
+                <h4 className="font-semibold">{dataSections.cuidadoPersonal[3].nombre}</h4>
+                <h5 className={description} key={dataSections.cuidadoPersonal.id}>{dataSections.cuidadoPersonal[3].descripcion}</h5>
+
+                <div className={containerBuy}>
+                    <span className={cart}>$599</span>
+                    <ButtonCard button={button}/>
                 </div>
             </div>
         </div>
@@ -25,3 +24,16 @@ const Card = () => {
 }
 
 export default Card
+
+
+const stylesCard = {
+    container:"w-1/4 max-w-sm delay-150 bg-white rounded-lg shadow-lg hover:shadow-2xl",
+    img:"p-8 border-b shadow-sm border-slate-50" ,
+    containerDescription: "flex flex-col justify-between p-5",
+    description: "text-sm font-semibold tracking-tighter text-gray-500",
+    containerBuy: "flex items-center justify-between",
+    cart: "text-2xl font-bold text-gray-900",
+    button: "text-white bg-green-500 hover:bg-green-700  focus:ring-2 focus:ring-blue-300 font-medium rounded-lg text-2xl px-8 py-2.5 text-center delay-100"
+}
+
+const {container,img,containerDescription,description,containerBuy,cart,button} = stylesCard;

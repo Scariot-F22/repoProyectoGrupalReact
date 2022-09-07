@@ -30,7 +30,7 @@ export const itemsLInksNavBar = {
     itemsMovile: [
         { item: "Belleza", id: 1 },
         { item: "Cuidado Personal", id: 2 },
-        { item: "Bebés y Mamás", id: 2 },
+        { item: "Bebés y Mamás", id: 3 },
         { item: "Salud y Farmacia", id: 4 },
         { item: "Ofertas", id: 5 },
     ]
