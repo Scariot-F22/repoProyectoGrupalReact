@@ -33,8 +33,8 @@ const NavBar = () => {
           {/* iconos modo movile */}
 
           <div className="flex mx-auto tracking-tight lg:hidden">
-            <a href="#" className={stylesIcons}><HiOutlineUser /></a>
             <a href="#" className={stylesIcons}><HiOutlineSearch /></a>
+            <a href="#" className={stylesIcons}><HiOutlineUser /></a>
             <a href="#" className={stylesIcons}><HiOutlineShoppingCart /></a>
           </div>
         </div>
@@ -49,17 +49,17 @@ const NavBar = () => {
         <div className="flex-grow block w-full lg:flex lg:items-center lg:w-auto">
           <div className="flex flex-col-reverse flex-wrap w-full lg:flex-row lg:justify-end">
 
-            {/* visibilidad modo movile(boton hamburguesa) */}
+            {/* visibilidad modo movile */}
 
             {visibleHamburger && <div className="pt-2 text-md lg:flex-grow h-96">
-              {itemsMovile.map(i => <button className="flex items-center justify-between w-full my-6 text-teal-200 border-b border-gray-300 hover:text-white">
+              {itemsMovile.map(i => <button key={i.id} className="flex items-center justify-between w-full my-6 text-teal-200 border-b border-gray-300 hover:text-white">
                 <span  className="py-4">{i.item}</span>  <HiChevronRight className="text-2xl" />
               </button>)}
             </div>}
 
             {/* visibilidad modo desktop */}
 
-            <div className="flex flex-grow invisible pt-2 justify-evenly lg:visible max-h-8">
+            <div className="flex flex-grow invisible pt-2 justify-evenly lg:visible max-h-8  z-50">
               <button className={stylesLInk} onMouseOver={() => setVisible(true)} onMouseOut={() => setVisible(false)}>
                 Belleza y Perfumería{iconChevronDown}
                 {visible && <div className={stylesContainerItems}>
@@ -92,8 +92,8 @@ const NavBar = () => {
             {/* iconos modo desktop */}
 
             <div className="invisible lg:visible max-h-px">
-              <a href="#" className={stylesIcons}><HiOutlineUser /></a>
               <a href="#" className={stylesIcons}><HiOutlineSearch /></a>
+              <a href="#" className={stylesIcons}><HiOutlineUser /></a>
               <a href="#" className={stylesIcons}><HiOutlineShoppingCart /></a>
             </div>
           </div>
