@@ -1,4 +1,4 @@
-import { dataSections } from "../../Data/dataSections";
+import { dataSections } from "../../Data/dataProducts";
 import ButtonCard from "./ButtonCard";
 
 

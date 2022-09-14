@@ -1,8 +1,9 @@
-import { NavLink, unstable_HistoryRouter } from "react-router-dom";
+import { NavLink} from "react-router-dom";
 import { HiOutlineUser, HiOutlineSearch, HiOutlineShoppingCart, HiMenu, HiX, HiChevronRight } from "react-icons/hi";
 import { stylesNavBar } from "./StylesNav";
 import { itemsLInksNavBar } from "../../Data/dataLinksNavbar";
 import { useState } from "react";
+import logo from "../../fotos/logo.jpeg"
 
 const NavBar = () => {
 
@@ -28,7 +29,7 @@ const NavBar = () => {
     <>
       <nav className="flex flex-wrap items-center justify-between p-6 mx-auto bg-emerald-600">
         <div className="flex items-center justify-between flex-shrink-0 w-4/5 pb-3 mr-6 lg:w-auto text-lime-500">
-          <span className="text-xl font-semibold tracking-tight">Farmazziti</span>
+          <img src={logo} alt="logo Farmazziti" width="150"/>
 
           {/* iconos modo movile */}
 
@@ -73,7 +74,7 @@ const NavBar = () => {
                 </div>}
               </button>
               <button className={stylesLInk} onMouseOver={() => setVisible3(true)} onMouseOut={() => setVisible3(false)}>
-                Bebés y Mamás{iconChevronDown}
+                Bebés y Maternidad{iconChevronDown}
                 {visible3 && <div className={stylesContainerItems}>
                   {itemsMamasBebes.map(i => <a key={i.id} className={staylesItemsLinks}>{i.item}</a>)}
                 </div>}

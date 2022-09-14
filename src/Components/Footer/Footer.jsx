@@ -48,5 +48,5 @@ export default Footer
 const sytlesFooter = {
     divCol: "w-4/5 text-center capitalize",
     h2: "mb-6 text-md font-semibold text-black",
-    anchor: "hover:underline hover: underline-offset-8 hover:decoration-slate-400 mb-4 text-gray-400"
+    anchor: "hover:underline hover: underline-offset-8 hover:decoration-slate-400 mb-4 text-gray-200"
 }
