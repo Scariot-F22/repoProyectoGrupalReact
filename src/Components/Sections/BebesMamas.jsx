@@ -1,6 +1,6 @@
 import seccBebes from "../../fotos/seccBebes.jpg";
 import CardSections from "./CardSections";
-import { dataCardSections } from "./dataCardSections";
+import { dataCardSections } from "../../Data/dataCardSections";
 
 
 const{bebesMamas} = dataCardSections;

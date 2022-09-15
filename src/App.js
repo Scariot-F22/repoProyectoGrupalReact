@@ -4,6 +4,9 @@ import Footer from "./Components/Footer/Footer";
 import Home from "./Components/Home/Home";
 import NavBar from "./Components/NavBar/NavBar";
 import BebesMamas from "./Components/Sections/BebesMamas";
+import Belleza from "./Components/Sections/Belleza";
+import CuidadoPersonal from "./Components/Sections/CuidadoPersonal";
+import SaludFarm from "./Components/Sections/SaludFarm";
 
 function App() {
   return (
@@ -11,7 +14,10 @@ function App() {
       <NavBar />
       {/* <Card /> */}
       {/* <Home /> */}
-      <BebesMamas/>
+      {/* <BebesMamas/> */}
+      {/* <Belleza /> */}
+      {/* <CuidadoPersonal /> */}
+      <SaludFarm />
       <Footer />
     </>
   );

@@ -5,15 +5,15 @@ const CardSections = ({item}) => {
     
   return (
     <div className="flex justify-center">
-        <div className="w-11/12 bg-green-100 border border-gray-200 rounded-lg shadow-xl h-3/4">
+        <div className={card}>
                 <a href="#">
-                    <img className="object-cover w-full rounded-t-lg h-3/4" src={item.img} alt={item.title} />
+                    <img className={imgCard} src={item.img} alt={item.title} />
                 </a>
-                <div className="p-5">
+                <div className="p-2">
                     <a href="#">
-                        <h5 className="mb-2 text-2xl font-bold tracking-tight text-center text-gray-900 capitalize">{item.title}</h5>
+                        <h5 className={h5Card}>{item.title}</h5>
                     </a>
-                    <p className="mb-3 font-normal text-center text-gray-700 capitalize">{item.description}</p>
+                    <p className={pCard}>{item.description}</p>
                 </div>
             </div>
     </div>
@@ -21,3 +21,12 @@ const CardSections = ({item}) => {
 }
 
 export default CardSections
+
+const stylesCardSections ={
+    card: "w-11/12 bg-green-100 border border-gray-200 rounded-lg shadow-xl hover:shadow-lg hover:shadow-slate-400 h-3/4",
+    imgCard: "object-cover w-full rounded-t-lg h-3/4",
+    h5Card: "p-2 text-2xl font-bold tracking-tight text-center text-gray-900 capitalize",
+    pCard: "p-2 font-normal text-center text-gray-700 capitalize"
+}
+
+const {card,imgCard,h5Card,pCard} = stylesCardSections;
