@@ -23,10 +23,10 @@ const CardSections = ({item}) => {
 export default CardSections
 
 const stylesCardSections ={
-    card: "w-11/12 bg-green-100 border border-gray-200 rounded-lg shadow-xl hover:shadow-lg hover:shadow-slate-400 h-3/4",
-    imgCard: "object-cover w-full rounded-t-lg h-3/4",
-    h5Card: "p-2 text-2xl font-bold tracking-tight text-center text-gray-900 capitalize",
-    pCard: "p-2 font-normal text-center text-gray-700 capitalize"
+    card: "w-11/12 bg-green-100 border border-gray-200 rounded-lg shadow-xl hover:shadow-lg hover:shadow-slate-400 min-h-cover mb-12",
+    imgCard: "object-cover w-full rounded-t-lg min-h-cover md:h-3/4",
+    h5Card: "p-2 text-md md:text-2xl font-bold tracking-tight text-center text-gray-900 capitalize",
+    pCard: "p-2 text-sm md:text-md font-normal text-center text-gray-700 capitalize"
 }
 
 const {card,imgCard,h5Card,pCard} = stylesCardSections;

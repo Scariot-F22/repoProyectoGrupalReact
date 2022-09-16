@@ -27,11 +27,11 @@ export const itemsLInksNavBar = {
         { item: "Electrosalud", id: 4 },
         { item: "Salud Sexual", id: 5 }
     ],
-    itemsMovile: [
-        { item: "Belleza", id: 1 },
-        { item: "Cuidado Personal", id: 2 },
-        { item: "Bebés y Maternidad", id: 3 },
-        { item: "Salud y Farmacia", id: 4 },
-        { item: "Ofertas", id: 5 },
+    itemsMobile: [
+        { item: "Belleza", id: 1, path: "Belleza" },
+        { item: "Cuidado Personal", id: 2, path: "Cuidado_Personal" },
+        { item: "Bebés y Maternidad", id: 3, path: "Bebes_y_Mamas" },
+        { item: "Salud y Farmacia", id: 4, path: "Salud_y_Farmacia" },
+        { item: "Ofertas", id: 5, path: "Ofertas" },
     ]
 }
