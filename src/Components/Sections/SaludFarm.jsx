@@ -2,6 +2,7 @@ import CardSections from "./CardSections";
 import { dataCardSections } from "../../Data/dataCardSections";
 import { stylesSections } from "./stylesSections";
 
+
 const {img, h1, containCompCard} = stylesSections;
 
 const {saludFarmacia} = dataCardSections;

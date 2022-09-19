@@ -1,0 +1,1100 @@
+{
+      "cuidadoPersonal": {
+            "cuidadoOral": [
+                  {
+                        "name": "Colgate",
+                        "description": "Cepillo dental Max White x2 ",
+                        "id": "1",
+                        "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Ffarmacityar.vteximg.com.br%2Farquivos%2Fids%2F196368-1000-1000%2F122491_antiseptico-bucal-anti-sarro-x-500-ml_image-1.jpg%3Fv%3D637194406680900000&imgrefurl=https%3A%2F%2Fwww.farmacity.com%2Fantiseptico-bucal-anti-sarro-x-500-ml%2Fp&tbnid=4kCJ7lW46ILXlM&vet=12ahUKEwjVz_HLxr_5AhUtu5UCHT81CD0QMygAegUIARDAAQ..i&docid=FBy37Gk8UdiaFM&w=1000&h=1000&q=antiseptico%20bucal%20antisarro%20image&ved=2ahUKEwjVz_HLxr_5AhUtu5UCHT81CD0QMygAegUIARDAAQ"
+                  },
+                  {
+                        "name": "Colgate",
+                        "description": "Cepillo dental extra suave para niños",
+                        "id": "2",
+                        "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Ffarmacityar.vteximg.com.br%2Farquivos%2Fids%2F196368-1000-1000%2F122491_antiseptico-bucal-anti-sarro-x-500-ml_image-1.jpg%3Fv%3D637194406680900000&imgrefurl=https%3A%2F%2Fwww.farmacity.com%2Fantiseptico-bucal-anti-sarro-x-500-ml%2Fp&tbnid=4kCJ7lW46ILXlM&vet=12ahUKEwjVz_HLxr_5AhUtu5UCHT81CD0QMygAegUIARDAAQ..i&docid=FBy37Gk8UdiaFM&w=1000&h=1000&q=antiseptico%20bucal%20antisarro%20image&ved=2ahUKEwjVz_HLxr_5AhUtu5UCHT81CD0QMygAegUIARDAAQ"
+                  },
+                  {
+                        "name": "Oral-b",
+                        "description": "Cepillo dental eléctrico Pro-Salud",
+                        "id": "3",
+                        "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Ffarmacityar.vteximg.com.br%2Farquivos%2Fids%2F196368-1000-1000%2F122491_antiseptico-bucal-anti-sarro-x-500-ml_image-1.jpg%3Fv%3D637194406680900000&imgrefurl=https%3A%2F%2Fwww.farmacity.com%2Fantiseptico-bucal-anti-sarro-x-500-ml%2Fp&tbnid=4kCJ7lW46ILXlM&vet=12ahUKEwjVz_HLxr_5AhUtu5UCHT81CD0QMygAegUIARDAAQ..i&docid=FBy37Gk8UdiaFM&w=1000&h=1000&q=antiseptico%20bucal%20antisarro%20image&ved=2ahUKEwjVz_HLxr_5AhUtu5UCHT81CD0QMygAegUIARDAAQ"
+                  },
+                  {
+                        "name": "colgate",
+                        "id": "4",
+                        "description": "Enjuague bucal Colgate Total 12",
+                        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/002.png"
+                  },
+                  {
+                        "name": "fluorogel",
+                        "description": "Crema dental Flourogel Chiquitos",
+                        "id": "5",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/191385-600-600/151760_crema-dental-total-12-professional-whitening-x-140-gr_image-1.jpg?v=637094299608100000"
+                  },
+                  {
+                        "name": "Oral-b",
+                        "description": "hilos dentales Oral-B Essential Floss x2",
+                        "id": "6",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/204203-600-600/215076_shampoo-dove-regeneracion-extrema-x-400-ml_image-1.jpg?v=637384690039770000"
+                  },
+                  {
+                        "name": "GUM",
+                        "description": "palillos interdentales Soft-Picks",
+                        "id": "7",
+                        "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Ffarmacityar.vteximg.com.br%2Farquivos%2Fids%2F196368-1000-1000%2F122491_antiseptico-bucal-anti-sarro-x-500-ml_image-1.jpg%3Fv%3D637194406680900000&imgrefurl=https%3A%2F%2Fwww.farmacity.com%2Fantiseptico-bucal-anti-sarro-x-500-ml%2Fp&tbnid=4kCJ7lW46ILXlM&vet=12ahUKEwjVz_HLxr_5AhUtu5UCHT81CD0QMygAegUIARDAAQ..i&docid=FBy37Gk8UdiaFM&w=1000&h=1000&q=antiseptico%20bucal%20antisarro%20image&ved=2ahUKEwjVz_HLxr_5AhUtu5UCHT81CD0QMygAegUIARDAAQ"
+                  },
+                  {
+                        "name": "Colgate",
+                        "description": "crema dental Luminous White",
+                        "id": "8",
+                        "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Ffarmacityar.vteximg.com.br%2Farquivos%2Fids%2F196368-1000-1000%2F122491_antiseptico-bucal-anti-sarro-x-500-ml_image-1.jpg%3Fv%3D637194406680900000&imgrefurl=https%3A%2F%2Fwww.farmacity.com%2Fantiseptico-bucal-anti-sarro-x-500-ml%2Fp&tbnid=4kCJ7lW46ILXlM&vet=12ahUKEwjVz_HLxr_5AhUtu5UCHT81CD0QMygAegUIARDAAQ..i&docid=FBy37Gk8UdiaFM&w=1000&h=1000&q=antiseptico%20bucal%20antisarro%20image&ved=2ahUKEwjVz_HLxr_5AhUtu5UCHT81CD0QMygAegUIARDAAQ"
+                  },
+                  {
+                        "name": "sensodyne",
+                        "description": "Sensodyne blanqueador",
+                        "id": "9",
+                        "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Ffarmacityar.vteximg.com.br%2Farquivos%2Fids%2F196368-1000-1000%2F122491_antiseptico-bucal-anti-sarro-x-500-ml_image-1.jpg%3Fv%3D637194406680900000&imgrefurl=https%3A%2F%2Fwww.farmacity.com%2Fantiseptico-bucal-anti-sarro-x-500-ml%2Fp&tbnid=4kCJ7lW46ILXlM&vet=12ahUKEwjVz_HLxr_5AhUtu5UCHT81CD0QMygAegUIARDAAQ..i&docid=FBy37Gk8UdiaFM&w=1000&h=1000&q=antiseptico%20bucal%20antisarro%20image&ved=2ahUKEwjVz_HLxr_5AhUtu5UCHT81CD0QMygAegUIARDAAQ"
+                  }
+            ],
+            "cabello": [
+                  {
+                        "name": "L'oreál paris",
+                        "description": "aceite reparador Óleo Extraordinario",
+                        "id": "1",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/207723-600-600/220335_shampoo-pantene-miracle-fuerza-y-reconstruccion-x-400-ml_image-1.jpg?v=637495988920270000"
+                  },
+                  {
+                        "name": "dove",
+                        "description": "acondicionador Dove Nutrive Secrtet \"ritual de crecimiento\"",
+                        "id": "2",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/207723-600-600/220335_shampoo-pantene-miracle-fuerza-y-reconstruccion-x-400-ml_image-1.jpg?v=637495988920270000"
+                  },
+                  {
+                        "name": "hair",
+                        "description": "ampolla capilar con keratina Reparación Profunda",
+                        "id": "3",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/207723-600-600/220335_shampoo-pantene-miracle-fuerza-y-reconstruccion-x-400-ml_image-1.jpg?v=637495988920270000"
+                  },
+                  {
+                        "name": "capilatis hombre",
+                        "description": "pomada Capilatis para pelo y barba fijación fuerte",
+                        "id": "4",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/207723-600-600/220335_shampoo-pantene-miracle-fuerza-y-reconstruccion-x-400-ml_image-1.jpg?v=637495988920270000"
+                  },
+                  {
+                        "name": "hair",
+                        "description": "crema oxidante",
+                        "id": "5",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/207723-600-600/220335_shampoo-pantene-miracle-fuerza-y-reconstruccion-x-400-ml_image-1.jpg?v=637495988920270000"
+                  },
+                  {
+                        "name": "bagòvit",
+                        "description": "crema para peinar No Frizz",
+                        "id": "6",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/207723-600-600/220335_shampoo-pantene-miracle-fuerza-y-reconstruccion-x-400-ml_image-1.jpg?v=637495988920270000"
+                  },
+                  {
+                        "name": "issue",
+                        "description": "polvo decolorante con oleo de semilla de lino",
+                        "id": "7",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/207723-600-600/220335_shampoo-pantene-miracle-fuerza-y-reconstruccion-x-400-ml_image-1.jpg?v=637495988920270000"
+                  },
+                  {
+                        "name": "lord cheseline",
+                        "description": "gel fijador de cabello",
+                        "id": "8",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/207723-600-600/220335_shampoo-pantene-miracle-fuerza-y-reconstruccion-x-400-ml_image-1.jpg?v=637495988920270000"
+                  },
+                  {
+                        "name": "L'oreál paris",
+                        "description": "kit coloración Excellence Creme rubio vainilla",
+                        "id": "9",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/207723-600-600/220335_shampoo-pantene-miracle-fuerza-y-reconstruccion-x-400-ml_image-1.jpg?v=637495988920270000"
+                  },
+                  {
+                        "name": "dove",
+                        "description": "máscara capilar Ritual de Fortalecimiento",
+                        "id": "10",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/207723-600-600/220335_shampoo-pantene-miracle-fuerza-y-reconstruccion-x-400-ml_image-1.jpg?v=637495988920270000"
+                  },
+                  {
+                        "name": "dove",
+                        "description": "Shampoo Regeneración Extrema",
+                        "id": "11",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/207723-600-600/220335_shampoo-pantene-miracle-fuerza-y-reconstruccion-x-400-ml_image-1.jpg?v=637495988920270000"
+                  },
+                  {
+                        "name": "head & shoulders",
+                        "description": "shampoo control caspa Men 3 en 1",
+                        "id": "12",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/207723-600-600/220335_shampoo-pantene-miracle-fuerza-y-reconstruccion-x-400-ml_image-1.jpg?v=637495988920270000"
+                  },
+                  {
+                        "name": "john freida",
+                        "description": "spray para peinar profesional Frizz Ease",
+                        "id": "13",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/207723-600-600/220335_shampoo-pantene-miracle-fuerza-y-reconstruccion-x-400-ml_image-1.jpg?v=637495988920270000"
+                  },
+                  {
+                        "name": "estereo color",
+                        "description": "tratamiento reparador de keratina",
+                        "id": "14",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/207723-600-600/220335_shampoo-pantene-miracle-fuerza-y-reconstruccion-x-400-ml_image-1.jpg?v=637495988920270000"
+                  }
+            ],
+            "higienePersonal": [
+                  {
+                        "name": "nivea",
+                        "description": "Antitranspirante en aerosol Active Drive Fresh",
+                        "id": "1",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/187031-600-600/2371_espuma-de-afeitar-piel-sensible-x-322-ml_image-1.jpg?v=636995101053700000"
+                  },
+                  {
+                        "name": "Gillete",
+                        "description": "Repuestos cartuchos de afeitadora Match 3 sensitive",
+                        "id": "2",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/187031-600-600/2371_espuma-de-afeitar-piel-sensible-x-322-ml_image-1.jpg?v=636995101053700000"
+                  },
+                  {
+                        "name": "millefiori",
+                        "description": "Cera depilatoria en perlas",
+                        "id": "3",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/187031-600-600/2371_espuma-de-afeitar-piel-sensible-x-322-ml_image-1.jpg?v=636995101053700000"
+                  },
+                  {
+                        "name": "Enjoy",
+                        "description": "Copa menstrual de silicona",
+                        "id": "4",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/187031-600-600/2371_espuma-de-afeitar-piel-sensible-x-322-ml_image-1.jpg?v=636995101053700000"
+                  },
+                  {
+                        "name": "Gillete",
+                        "description": "Espuma de afeitar Match 3 sensitive",
+                        "id": "5",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/187031-600-600/2371_espuma-de-afeitar-piel-sensible-x-322-ml_image-1.jpg?v=636995101053700000"
+                  },
+                  {
+                        "name": "Gillete",
+                        "description": "Máquina de afeitar Venus suave",
+                        "id": "6",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/187031-600-600/2371_espuma-de-afeitar-piel-sensible-x-322-ml_image-1.jpg?v=636995101053700000"
+                  },
+                  {
+                        "name": "nivea men",
+                        "description": "Bálsamo hidratante post-afeitado con aloe vera",
+                        "id": "7",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/187031-600-600/2371_espuma-de-afeitar-piel-sensible-x-322-ml_image-1.jpg?v=636995101053700000"
+                  },
+                  {
+                        "name": "dove",
+                        "description": "Jabón de tocador DOVE Beauty Bar",
+                        "id": "8",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/187031-600-600/2371_espuma-de-afeitar-piel-sensible-x-322-ml_image-1.jpg?v=636995101053700000"
+                  },
+                  {
+                        "name": "lux",
+                        "description": "Jabon liquido para manos fragancia Jazmín",
+                        "id": "9",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/187031-600-600/2371_espuma-de-afeitar-piel-sensible-x-322-ml_image-1.jpg?v=636995101053700000"
+                  },
+                  {
+                        "name": "nosotras",
+                        "description": "Protectores diarios con aloe vera",
+                        "id": "10",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/187031-600-600/2371_espuma-de-afeitar-piel-sensible-x-322-ml_image-1.jpg?v=636995101053700000"
+                  },
+                  {
+                        "name": "Enjoy",
+                        "description": "Tampones flujo moderado e intenso",
+                        "id": "11",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/187031-600-600/2371_espuma-de-afeitar-piel-sensible-x-322-ml_image-1.jpg?v=636995101053700000"
+                  },
+                  {
+                        "name": "Always",
+                        "description": "Toallas femeninas Protección Total suave",
+                        "id": "12",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/215982-600-600/217080_toallas-femeninas-always-maxi-proteccion-suave-x-16-un_image-1.jpg?v=637691455571600000"
+                  }
+            ],
+            "adultos": [
+                  {
+                        "name": "plenitud",
+                        "description": "Pañales desechables para adultos PLENITUD Protect",
+                        "id": "1",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/187031-600-600/2371_espuma-de-afeitar-piel-sensible-x-322-ml_image-1.jpg?v=636995101053700000"
+                  },
+                  {
+                        "name": "tena",
+                        "description": "Pañales desechables para adultos TENA Slip Ultra",
+                        "id": "2",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/187031-600-600/2371_espuma-de-afeitar-piel-sensible-x-322-ml_image-1.jpg?v=636995101053700000"
+                  },
+                  {
+                        "name": "plenitud",
+                        "description": "protectores PLENITUD Femme escapes de orina ",
+                        "id": "3",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/187031-600-600/2371_espuma-de-afeitar-piel-sensible-x-322-ml_image-1.jpg?v=636995101053700000"
+                  },
+                  {
+                        "name": "plenitud",
+                        "description": "ropa interior desechable PLENITUD Protect Plus",
+                        "id": "4",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/187031-600-600/2371_espuma-de-afeitar-piel-sensible-x-322-ml_image-1.jpg?v=636995101053700000"
+                  },
+                  {
+                        "name": "profit",
+                        "description": "Toallas húmedas PROFIT Wipes",
+                        "id": "5",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/187031-600-600/2371_espuma-de-afeitar-piel-sensible-x-322-ml_image-1.jpg?v=636995101053700000"
+                  },
+                  {
+                        "name": "Enjoy",
+                        "description": "Toallas húmedas higiene íntima",
+                        "id": "6",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/187031-600-600/2371_espuma-de-afeitar-piel-sensible-x-322-ml_image-1.jpg?v=636995101053700000"
+                  }
+            ]
+      },
+      "belleza": {
+            "perfumeria": [
+                  {
+                        "name": "47 street",
+                        "description": "Fearless ilove 47 x50 ml",
+                        "id": "1",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/215748-600-600/224617_edp-cher-dieciocho-x-100-ml_image-2.jpg?v=637690357333730000"
+                  },
+                  {
+                        "name": "adolfo dominguez",
+                        "description": "Agua Fresca de Azahar x200  ml",
+                        "id": "2",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/215748-600-600/224617_edp-cher-dieciocho-x-100-ml_image-2.jpg?v=637690357333730000"
+                  },
+                  {
+                        "name": "adolfo dominguez",
+                        "description": "Bambú x120 ml hombre",
+                        "id": "3",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/215748-600-600/224617_edp-cher-dieciocho-x-100-ml_image-2.jpg?v=637690357333730000"
+                  },
+                  {
+                        "name": "adolfo dominguez",
+                        "description": "Ébano Savia x120ml hombre",
+                        "id": "4",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/215748-600-600/224617_edp-cher-dieciocho-x-100-ml_image-2.jpg?v=637690357333730000"
+                  },
+                  {
+                        "name": "algabo",
+                        "description": "Hello Kitty",
+                        "id": "5",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/215748-600-600/224617_edp-cher-dieciocho-x-100-ml_image-2.jpg?v=637690357333730000"
+                  },
+                  {
+                        "name": "algabo",
+                        "description": "Spider-man",
+                        "id": "6",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/215748-600-600/224617_edp-cher-dieciocho-x-100-ml_image-2.jpg?v=637690357333730000"
+                  },
+                  {
+                        "name": "Antonio Banderas",
+                        "description": "ANTONIO BANDERAS Power Of Seduction x100 ml",
+                        "id": "7",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/209613-600-600/221741_eau-de-toilette-antonio-banderas-the-icon-x-50-ml_image-1.jpg?v=637554020860500000"
+                  },
+                  {
+                        "name": "Antonio Banderas",
+                        "description": "ANTONIO BANDERAS The Secret Tempation",
+                        "id": "8",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/209613-600-600/221741_eau-de-toilette-antonio-banderas-the-icon-x-50-ml_image-1.jpg?v=637554020860500000"
+                  },
+                  {
+                        "name": "Antonio Banderas",
+                        "description": "ANTONIO BANDERAS The Icon x100 ml",
+                        "id": "9",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/209613-600-600/221741_eau-de-toilette-antonio-banderas-the-icon-x-50-ml_image-1.jpg?v=637554020860500000"
+                  },
+                  {
+                        "name": "Barbie",
+                        "description": "BARBIE Love Yourself",
+                        "id": "10",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/209613-600-600/221741_eau-de-toilette-antonio-banderas-the-icon-x-50-ml_image-1.jpg?v=637554020860500000"
+                  },
+                  {
+                        "name": "boss",
+                        "description": "BOSS Intense x90 ml",
+                        "id": "11",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/209613-600-600/221741_eau-de-toilette-antonio-banderas-the-icon-x-50-ml_image-1.jpg?v=637554020860500000"
+                  },
+                  {
+                        "name": "Cher",
+                        "description": "EDP Cher Dieciocho x100  ml",
+                        "id": "12",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/215748-600-600/224617_edp-cher-dieciocho-x-100-ml_image-2.jpg?v=637690357333730000"
+                  },
+                  {
+                        "name": "Kevingston",
+                        "id": "13",
+                        "description": "32 For Men x100 ml",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/209779-600-600/221634_eau-de-parfum-las-pepas-ninfa-x-100-ml_image-1.jpg?v=637557569232430000"
+                  },
+                  {
+                        "name": "Paula",
+                        "id": "14",
+                        "description": "PAULA Cahen D'Anvers",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/209779-600-600/221634_eau-de-parfum-las-pepas-ninfa-x-100-ml_image-1.jpg?v=637557569232430000"
+                  },
+                  {
+                        "name": "polo",
+                        "id": "15",
+                        "description": "Wellington POLO club x120 ml",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/209779-600-600/221634_eau-de-parfum-las-pepas-ninfa-x-100-ml_image-1.jpg?v=637557569232430000"
+                  },
+                  {
+                        "name": "Prunne",
+                        "description": "EDP Prunne II x50 ml",
+                        "id": "16",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/159758-600-600/121014_eau-de-parfum-iii-natural-spray-x-50-ml_image-1.jpg?v=636670315767330000"
+                  },
+                  {
+                        "name": "shakira",
+                        "id": "17",
+                        "description": "SHAKIRA Dance Midnight Muse x100 ml",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/209779-600-600/221634_eau-de-parfum-las-pepas-ninfa-x-100-ml_image-1.jpg?v=637557569232430000"
+                  },
+                  {
+                        "name": "stone",
+                        "id": "18",
+                        "description": "STONE Black x100 ml",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/209779-600-600/221634_eau-de-parfum-las-pepas-ninfa-x-100-ml_image-1.jpg?v=637557569232430000"
+                  }
+            ],
+            "electro": [
+                  {
+                        "name": "Gama",
+                        "description": "Set Cortadora de pelo y afeitadora GAMA Profesional",
+                        "id": "1",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/206157-600-600/219206_set-gama-cortadora-de-pelo-gc-542-trimmer-nasal-inalambrico-gnt-512_image-1.jpg?v=637438110264200000"
+                  },
+                  {
+                        "name": "phillips",
+                        "description": "Afeitadora PHILLIPS ONEBlade",
+                        "id": "2",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/184669-600-600/202443_planchita-de-pelo-gama-elegance-digital_image-1.jpg?v=636929725939670000"
+                  },
+                  {
+                        "name": "studio 9",
+                        "description": "Exfoliador de pies STUDIO 9 Profesional",
+                        "id": "3",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/206157-600-600/219206_set-gama-cortadora-de-pelo-gc-542-trimmer-nasal-inalambrico-gnt-512_image-1.jpg?v=637438110264200000"
+                  },
+                  {
+                        "name": "Gama",
+                        "description": "Buclera GAMA Tourmaline",
+                        "id": "4",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/206157-600-600/219206_set-gama-cortadora-de-pelo-gc-542-trimmer-nasal-inalambrico-gnt-512_image-1.jpg?v=637438110264200000"
+                  },
+                  {
+                        "name": "phillips",
+                        "description": "Depiladora eléctrica",
+                        "id": "5",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/206157-600-600/219206_set-gama-cortadora-de-pelo-gc-542-trimmer-nasal-inalambrico-gnt-512_image-1.jpg?v=637438110264200000"
+                  },
+                  {
+                        "name": "studio 9",
+                        "description": "Cepillo de limpiza facial STUDIO 9 Profesional",
+                        "id": "6",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/206157-600-600/219206_set-gama-cortadora-de-pelo-gc-542-trimmer-nasal-inalambrico-gnt-512_image-1.jpg?v=637438110264200000"
+                  },
+                  {
+                        "name": "studio 9",
+                        "description": "Masajeador facial STUDIO 9 Profesional",
+                        "id": "7",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/206157-600-600/219206_set-gama-cortadora-de-pelo-gc-542-trimmer-nasal-inalambrico-gnt-512_image-1.jpg?v=637438110264200000"
+                  },
+                  {
+                        "name": "aspen",
+                        "description": "Almohadilla masajeadora",
+                        "id": "8",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/206157-600-600/219206_set-gama-cortadora-de-pelo-gc-542-trimmer-nasal-inalambrico-gnt-512_image-1.jpg?v=637438110264200000"
+                  },
+                  {
+                        "name": "phillips",
+                        "description": "Planchita de Ceramica",
+                        "id": "9",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/184669-600-600/202443_planchita-de-pelo-gama-elegance-digital_image-1.jpg?v=636929725939670000"
+                  },
+                  {
+                        "name": "Gama",
+                        "description": "Secador de pelo GAMA Titan Keratin",
+                        "id": "10",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/206157-600-600/219206_set-gama-cortadora-de-pelo-gc-542-trimmer-nasal-inalambrico-gnt-512_image-1.jpg?v=637438110264200000"
+                  }
+            ],
+            "maquillaje": [
+                  {
+                        "name": "L'oreal París",
+                        "id": "1",
+                        "description": "Base Liquida de maquillaje Fit me",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/214833-600-600/223894_jabon-intimo-summers-eve-delicate-blossom-x-266-ml_image-1.jpg?v=637669050407800000"
+                  },
+                  {
+                        "name": "Maybelline",
+                        "id": "2",
+                        "description": "Base Liquida de maquillaje True Match",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/214833-600-600/223894_jabon-intimo-summers-eve-delicate-blossom-x-266-ml_image-1.jpg?v=637669050407800000"
+                  },
+                  {
+                        "name": "Maybelline",
+                        "description": "Crayón Liquido de labios Maybelline Super Stay ink crayon",
+                        "id": "3",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/212137-600-600/222114_labial-liquido-maybelline-superstay-matte-ink-x-5-ml_image-1.jpg?v=637612780235830000"
+                  },
+                  {
+                        "name": "Maybelline",
+                        "description": "Delineador de ojos Maybelline Tattoo Studio",
+                        "id": "4",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/212137-600-600/222114_labial-liquido-maybelline-superstay-matte-ink-x-5-ml_image-1.jpg?v=637612780235830000"
+                  },
+                  {
+                        "name": "revlon",
+                        "description": "Esmalte de uñas REVLON Ultra HD Snap!",
+                        "id": "5",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/212137-600-600/222114_labial-liquido-maybelline-superstay-matte-ink-x-5-ml_image-1.jpg?v=637612780235830000"
+                  },
+                  {
+                        "name": "isdin",
+                        "description": "Fortalecedor de uñas ISDIN Si-Nails",
+                        "id": "6",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/212137-600-600/222114_labial-liquido-maybelline-superstay-matte-ink-x-5-ml_image-1.jpg?v=637612780235830000"
+                  },
+                  {
+                        "name": "L'oreal Paris",
+                        "description": "Labial Liquido L'OREAL PARIS",
+                        "id": "7",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/212137-600-600/222114_labial-liquido-maybelline-superstay-matte-ink-x-5-ml_image-1.jpg?v=637612780235830000"
+                  },
+                  {
+                        "name": "Maybelline",
+                        "description": "Labial Liquido Maybelline Super Stay matte ink",
+                        "id": "8",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/212137-600-600/222114_labial-liquido-maybelline-superstay-matte-ink-x-5-ml_image-1.jpg?v=637612780235830000"
+                  },
+                  {
+                        "name": "get the look",
+                        "description": "Lapiz labial cremoso",
+                        "id": "9",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/212137-600-600/222114_labial-liquido-maybelline-superstay-matte-ink-x-5-ml_image-1.jpg?v=637612780235830000"
+                  },
+                  {
+                        "name": "Maybelline",
+                        "description": "Máscara de pestañas Falshe Wimpern",
+                        "id": "10",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/212137-600-600/222114_labial-liquido-maybelline-superstay-matte-ink-x-5-ml_image-1.jpg?v=637612780235830000"
+                  },
+                  {
+                        "name": "get the look",
+                        "description": "Paleta de sombra de ojos",
+                        "id": "11",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/212137-600-600/222114_labial-liquido-maybelline-superstay-matte-ink-x-5-ml_image-1.jpg?v=637612780235830000"
+                  },
+                  {
+                        "name": "rimmel london",
+                        "description": "Polvo de maquillaje Natural Bronzer",
+                        "id": "12",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/212137-600-600/222114_labial-liquido-maybelline-superstay-matte-ink-x-5-ml_image-1.jpg?v=637612780235830000"
+                  },
+                  {
+                        "name": "studio 9",
+                        "description": "Quitaesmalte humectante",
+                        "id": "13",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/212137-600-600/222114_labial-liquido-maybelline-superstay-matte-ink-x-5-ml_image-1.jpg?v=637612780235830000"
+                  },
+                  {
+                        "name": "studio 9",
+                        "description": "Secador de esmaltes STUDIO 9 Profesional",
+                        "id": "8",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/212137-600-600/222114_labial-liquido-maybelline-superstay-matte-ink-x-5-ml_image-1.jpg?v=637612780235830000"
+                  }
+            ],
+            "cuidadoDePiel": [
+                  {
+                        "name": "HomeSpa",
+                        "description": "Aceite corporal HOMESPA Amour fragancia Flores Blancas",
+                        "id": "1",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/212137-600-600/222114_labial-liquido-maybelline-superstay-matte-ink-x-5-ml_image-1.jpg?v=637612780235830000"
+                  },
+                  {
+                        "name": "garnier",
+                        "description": "Agua micelar GARNIER Skin Active con rosas",
+                        "id": "2",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/212137-600-600/222114_labial-liquido-maybelline-superstay-matte-ink-x-5-ml_image-1.jpg?v=637612780235830000"
+                  },
+                  {
+                        "name": "nivea",
+                        "description": "Bronceador NIVE Sun Intense & Bronze",
+                        "id": "3",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/212137-600-600/222114_labial-liquido-maybelline-superstay-matte-ink-x-5-ml_image-1.jpg?v=637612780235830000"
+                  },
+                  {
+                        "name": "nivea",
+                        "description": "Crema corporal Milk Nutritiva",
+                        "id": "4",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/212137-600-600/222114_labial-liquido-maybelline-superstay-matte-ink-x-5-ml_image-1.jpg?v=637612780235830000"
+                  },
+                  {
+                        "name": "nivea",
+                        "description": "Crema de manos Intensivo",
+                        "id": "5",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/212137-600-600/222114_labial-liquido-maybelline-superstay-matte-ink-x-5-ml_image-1.jpg?v=637612780235830000"
+                  },
+                  {
+                        "name": "dermaglós",
+                        "description": "Emulsión corporal Regeneración Intensiva",
+                        "id": "6",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/212137-600-600/222114_labial-liquido-maybelline-superstay-matte-ink-x-5-ml_image-1.jpg?v=637612780235830000"
+                  },
+                  {
+                        "name": "dermaglós",
+                        "description": "Crema hidratante de día",
+                        "id": "7",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/212137-600-600/222114_labial-liquido-maybelline-superstay-matte-ink-x-5-ml_image-1.jpg?v=637612780235830000"
+                  },
+                  {
+                        "name": "cicatricure",
+                        "description": "Gel hidratante y humectante para cicatrices y estrías",
+                        "id": "8",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/212137-600-600/222114_labial-liquido-maybelline-superstay-matte-ink-x-5-ml_image-1.jpg?v=637612780235830000"
+                  },
+                  {
+                        "name": "goicoechea",
+                        "description": "Crema anticelulitis",
+                        "id": "9",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/212137-600-600/222114_labial-liquido-maybelline-superstay-matte-ink-x-5-ml_image-1.jpg?v=637612780235830000"
+                  },
+                  {
+                        "name": "nivea",
+                        "description": "Protector solar NIVEA Sun para piel de los niños",
+                        "id": "10",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/212137-600-600/222114_labial-liquido-maybelline-superstay-matte-ink-x-5-ml_image-1.jpg?v=637612780235830000"
+                  }
+            ]
+      },
+      "bebesMamas": {
+            "higieneBebe": [
+                  {
+                        "name": "Johnson's",
+                        "id": "1",
+                        "description": "Aceite de bebé con aloe y vitamina E",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/210513-600-600/45346_jabon-liquido-de-glicerina-con-vitamina-e-x-200-ml_image-1.jpg?v=637582592327600000"
+                  },
+                  {
+                        "name": "Johnson's",
+                        "id": "2",
+                        "description": "Acondicionador Johnson Baby cabello claro",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/210513-600-600/45346_jabon-liquido-de-glicerina-con-vitamina-e-x-200-ml_image-1.jpg?v=637582592327600000"
+                  },
+                  {
+                        "name": "Johnson's",
+                        "id": "3",
+                        "description": "Crema hidratante recién nacido",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/210513-600-600/45346_jabon-liquido-de-glicerina-con-vitamina-e-x-200-ml_image-1.jpg?v=637582592327600000"
+                  },
+                  {
+                        "name": "Hipoglós",
+                        "id": "4",
+                        "description": "Crema cuidado diario",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/210513-600-600/45346_jabon-liquido-de-glicerina-con-vitamina-e-x-200-ml_image-1.jpg?v=637582592327600000"
+                  },
+                  {
+                        "name": "estrella",
+                        "id": "5",
+                        "description": "Oleo calcáreo Estrella Baby",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/210513-600-600/45346_jabon-liquido-de-glicerina-con-vitamina-e-x-200-ml_image-1.jpg?v=637582592327600000"
+                  },
+                  {
+                        "name": "Huggies",
+                        "description": "Pañales HUGGIES Supreme Care P x50",
+                        "id": "6",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/224286-600-600/215675_panales-huggies-natural-care-recien-nacido-p-x-50-un_image-1.jpg?v=637915224501900000"
+                  },
+                  {
+                        "name": "Pampers",
+                        "description": "Pañales para agua PAMPERS Splashers x12",
+                        "id": "7",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/224286-600-600/215675_panales-huggies-natural-care-recien-nacido-p-x-50-un_image-1.jpg?v=637915224501900000"
+                  },
+                  {
+                        "name": "Pampers",
+                        "description": "Pañales PAMPERS Confort Sec extra plus G x44",
+                        "id": "8",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/224286-600-600/215675_panales-huggies-natural-care-recien-nacido-p-x-50-un_image-1.jpg?v=637915224501900000"
+                  },
+                  {
+                        "name": "dove",
+                        "description": "Shampoo DOVE baby cabello rizado",
+                        "id": "9",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/224286-600-600/215675_panales-huggies-natural-care-recien-nacido-p-x-50-un_image-1.jpg?v=637915224501900000"
+                  },
+                  {
+                        "name": "Johnson's",
+                        "id": "10",
+                        "description": "Shampoo Johnson Baby hidratación intensa",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/210513-600-600/45346_jabon-liquido-de-glicerina-con-vitamina-e-x-200-ml_image-1.jpg?v=637582592327600000"
+                  },
+                  {
+                        "name": "Johnson's",
+                        "id": "11",
+                        "description": "Talco JHONSON baby protección pura",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/210513-600-600/45346_jabon-liquido-de-glicerina-con-vitamina-e-x-200-ml_image-1.jpg?v=637582592327600000"
+                  },
+                  {
+                        "name": "Pampers",
+                        "description": "Toallas humedas recién nacido x48",
+                        "id": "12",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/220943-600-600/221534_toallas-humedas-pampers-limpieza-delicada-x-4--un_image-1.jpg?v=637841636726030000"
+                  }
+            ],
+            "accesoriosBebes": [
+                  {
+                        "name": "nuk",
+                        "description": "Calentador de mamaderas",
+                        "id": "1",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/202578-600-600/217117_chupete-avent-silicona-suave-6-18-meses-celeste-de-animales-x-2-un_image-1.jpg?v=637341372686130000"
+                  },
+                  {
+                        "name": "nuk",
+                        "description": "Esterilizador",
+                        "id": "2",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/202578-600-600/217117_chupete-avent-silicona-suave-6-18-meses-celeste-de-animales-x-2-un_image-1.jpg?v=637341372686130000"
+                  },
+                  {
+                        "name": "Avent",
+                        "description": "Mamadera AVENT Phillips",
+                        "id": "3",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/202578-600-600/217117_chupete-avent-silicona-suave-6-18-meses-celeste-de-animales-x-2-un_image-1.jpg?v=637341372686130000"
+                  },
+                  {
+                        "name": "nuk",
+                        "description": "Sacaleche electrónico",
+                        "id": "4",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/202578-600-600/217117_chupete-avent-silicona-suave-6-18-meses-celeste-de-animales-x-2-un_image-1.jpg?v=637341372686130000"
+                  },
+                  {
+                        "name": "Avent",
+                        "description": "Sacaleche AVENT Phillips",
+                        "id": "5",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/202578-600-600/217117_chupete-avent-silicona-suave-6-18-meses-celeste-de-animales-x-2-un_image-1.jpg?v=637341372686130000"
+                  },
+                  {
+                        "name": "Twistshake",
+                        "description": "Tetinas TWISTSHAKE Anti-cólicos",
+                        "id": "3",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/202578-600-600/217117_chupete-avent-silicona-suave-6-18-meses-celeste-de-animales-x-2-un_image-1.jpg?v=637341372686130000"
+                  }
+            ],
+            "maternidad": [
+                  {
+                        "name": "farmazziti",
+                        "id": "1",
+                        "description": "Apósitos descartables post-parto",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/211585-600-600/222432_leche-infantil-nutrilon-4-pro-futura-sabo-banana-x-350-g_image-1.jpg?v=637599819105330000"
+                  },
+                  {
+                        "name": "bushi",
+                        "id": "2",
+                        "description": "Crema de caléndula BUSHI para pezones sensibles y agrietados",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/211585-600-600/222432_leche-infantil-nutrilon-4-pro-futura-sabo-banana-x-350-g_image-1.jpg?v=637599819105330000"
+                  },
+                  {
+                        "name": "farmazziti",
+                        "id": "3",
+                        "description": "Faja elástica regulable post-parto hipoalargénica",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/211585-600-600/222432_leche-infantil-nutrilon-4-pro-futura-sabo-banana-x-350-g_image-1.jpg?v=637599819105330000"
+                  },
+                  {
+                        "name": "farmazziti",
+                        "id": "4",
+                        "description": "Pezoneras de silicona para lactancia",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/211585-600-600/222432_leche-infantil-nutrilon-4-pro-futura-sabo-banana-x-350-g_image-1.jpg?v=637599819105330000"
+                  }
+            ],
+            "nutricionInfantil": [
+                  {
+                        "name": "chicco",
+                        "id": "1",
+                        "description": "Combo conserva Chicco",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/211585-600-600/222432_leche-infantil-nutrilon-4-pro-futura-sabo-banana-x-350-g_image-1.jpg?v=637599819105330000"
+                  },
+                  {
+                        "name": "Twistshake",
+                        "id": "2",
+                        "description": "Set de cubiertos 3 piezas",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/211585-600-600/222432_leche-infantil-nutrilon-4-pro-futura-sabo-banana-x-350-g_image-1.jpg?v=637599819105330000"
+                  },
+                  {
+                        "name": "Nutrilon",
+                        "id": "3",
+                        "description": "Leche nutrilon Profutura 1 0-6 meses",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/211585-600-600/222432_leche-infantil-nutrilon-4-pro-futura-sabo-banana-x-350-g_image-1.jpg?v=637599819105330000"
+                  },
+                  {
+                        "name": "Nutrilon",
+                        "id": "4",
+                        "description": "Leche nutrilon Profutura 3 + 1 año",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/211585-600-600/222432_leche-infantil-nutrilon-4-pro-futura-sabo-banana-x-350-g_image-1.jpg?v=637599819105330000"
+                  },
+                  {
+                        "name": "gerber",
+                        "id": "5",
+                        "description": "Papilla de fruta sabor pera",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/211585-600-600/222432_leche-infantil-nutrilon-4-pro-futura-sabo-banana-x-350-g_image-1.jpg?v=637599819105330000"
+                  },
+                  {
+                        "name": "Twistshake",
+                        "id": "6",
+                        "description": "Plato dividido celeste",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/211585-600-600/222432_leche-infantil-nutrilon-4-pro-futura-sabo-banana-x-350-g_image-1.jpg?v=637599819105330000"
+                  },
+                  {
+                        "name": "pediasure",
+                        "id": "7",
+                        "description": "Suplemento nutricional infantil en polvo",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/211585-600-600/222432_leche-infantil-nutrilon-4-pro-futura-sabo-banana-x-350-g_image-1.jpg?v=637599819105330000"
+                  },
+                  {
+                        "name": "Avent",
+                        "id": "8",
+                        "description": "Vaso azul AVENT Phillips",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/211585-600-600/222432_leche-infantil-nutrilon-4-pro-futura-sabo-banana-x-350-g_image-1.jpg?v=637599819105330000"
+                  }
+            ]
+      },
+      "saludFarm": {
+            "nutricionDeportes": [
+                  {
+                        "name": "Ena",
+                        "id": "1",
+                        "description": "Suplemento dietario snack protein bar x15 g",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/226263-600-600/203644_suplemento-dietario-ena-whey-protein-sabor-chocolate-x-930-g_image-1.jpg?v=637957502788970000"
+                  },
+                  {
+                        "name": "farmazziti",
+                        "id": "2",
+                        "description": "Cinta neuromuscular kinetaping 5cm x 5cm",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/226263-600-600/203644_suplemento-dietario-ena-whey-protein-sabor-chocolate-x-930-g_image-1.jpg?v=637957502788970000"
+                  },
+                  {
+                        "name": "Atomo",
+                        "description": "Gel de masajes ATOMO x 30gr",
+                        "id": "3",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/193292-600-600/213220_gel-atomo-arnica-x-30-gr_image-1.jpg?v=637142585240330000"
+                  },
+                  {
+                        "name": "Profit",
+                        "description": "Muñequera PROFIT Air Sport",
+                        "id": "4",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/206172-600-600/219747_tobillera-profit-air-sport-talla-xl_image-1.jpg?v=637438110310570000"
+                  },
+                  {
+                        "name": "Profit",
+                        "description": "Rodillera PROFIT Air Sport",
+                        "id": "5",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/206172-600-600/219747_tobillera-profit-air-sport-talla-xl_image-1.jpg?v=637438110310570000"
+                  },
+                  {
+                        "name": "simplicity",
+                        "description": "Rueda para abdominales",
+                        "id": "6",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/206172-600-600/219747_tobillera-profit-air-sport-talla-xl_image-1.jpg?v=637438110310570000"
+                  },
+                  {
+                        "name": "Ena",
+                        "description": "Suplemento dietario de aminoacidos Muscle Max x1000 mg c/u",
+                        "id": "7",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/206172-600-600/219747_tobillera-profit-air-sport-talla-xl_image-1.jpg?v=637438110310570000"
+                  },
+                  {
+                        "name": "ampk",
+                        "description": "Suplemento dietario de proteina AMPK nutri x 506g",
+                        "id": "8",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/203683-600-600/218468_suplemento-dietario-ampk-protein-nutri-x-506-g_imagees-1.jpg?v=637376107431630000"
+                  },
+                  {
+                        "name": "Ensure",
+                        "id": "9",
+                        "description": "suplemento en polvo ENSURE Advance sabor vainilla x220 ml",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/209267-600-600/221530_suplemento-dietario-polvo-ensure-vainilla-x-1200-g_image-1.jpg?v=637547078834730000"
+                  },
+                  {
+                        "name": "geonat",
+                        "description": "Suplemento dietario de magnesio",
+                        "id": "10",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/206172-600-600/219747_tobillera-profit-air-sport-talla-xl_image-1.jpg?v=637438110310570000"
+                  },
+                  {
+                        "name": "Ensure",
+                        "id": "11",
+                        "description": "Suplemento nutricional ENSURE Advance sabor vainilla x850 g",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/226263-600-600/203644_suplemento-dietario-ena-whey-protein-sabor-chocolate-x-930-g_image-1.jpg?v=637957502788970000"
+                  },
+                  {
+                        "name": "natufarma",
+                        "description": "Suplemento dietario en cápsulas a base de aceite de pescado x30 cápsulas",
+                        "id": "12",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/206172-600-600/219747_tobillera-profit-air-sport-talla-xl_image-1.jpg?v=637438110310570000"
+                  },
+                  {
+                        "name": "redoxon",
+                        "description": "suplemento dietario vitamina C REDOXON Triple Acción sabor naranja x30 comp.",
+                        "id": "13",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/214480-600-600/223718_suplemento-dietario-pure-wellness-vitamina-c-1000-mg-x-30-comp_image-1.jpg?v=637662961974070000"
+                  },
+                  {
+                        "name": "Profit",
+                        "description": "Tobillera PROFIT Air Sport talle XL",
+                        "id": "14",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/206172-600-600/219747_tobillera-profit-air-sport-talla-xl_image-1.jpg?v=637438110310570000"
+                  }
+            ],
+            "electroSalud": [
+                  {
+                        "name": "aerochamber",
+                        "description": "Aerocámara AEROCHAMBER plus Flow-Vu de 1-5 años",
+                        "id": "1",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/206172-600-600/219747_tobillera-profit-air-sport-talla-xl_image-1.jpg?v=637438110310570000"
+                  },
+                  {
+                        "name": "silfab",
+                        "description": "Almohadilla eléctrica para espalda",
+                        "id": "2",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/206172-600-600/219747_tobillera-profit-air-sport-talla-xl_image-1.jpg?v=637438110310570000"
+                  },
+                  {
+                        "name": "farmazziti",
+                        "description": "Almohadilla térmica cervical",
+                        "id": "3",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/206172-600-600/219747_tobillera-profit-air-sport-talla-xl_image-1.jpg?v=637438110310570000"
+                  }, 
+                  {
+                        "name": "aspen",
+                        "description": "Balanza analógica",
+                        "id": "4",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/206172-600-600/219747_tobillera-profit-air-sport-talla-xl_image-1.jpg?v=637438110310570000"
+                  },
+                  {
+                        "name": "silfab",
+                        "description": "Balanza digital",
+                        "id": "5",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/206172-600-600/219747_tobillera-profit-air-sport-talla-xl_image-1.jpg?v=637438110310570000"
+                  },
+                  {
+                        "name": "maverick",
+                        "description": "Nebulizador ultrasónico portátil",
+                        "id": "6",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/206172-600-600/219747_tobillera-profit-air-sport-talla-xl_image-1.jpg?v=637438110310570000"
+                  },
+                  {
+                        "name": "coronet",
+                        "description": "Oxímetro de pulso",
+                        "id": "7",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/206172-600-600/219747_tobillera-profit-air-sport-talla-xl_image-1.jpg?v=637438110310570000"
+                  },
+                  {
+                        "name": "farmazziti",
+                        "description": "Tensiómetro analógico aneroide con estetoscopio",
+                        "id": "8",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/206172-600-600/219747_tobillera-profit-air-sport-talla-xl_image-1.jpg?v=637438110310570000"
+                  },
+                  {
+                        "name": "omron",
+                        "description": "Tensiómetro digital",
+                        "id": "9",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/206172-600-600/219747_tobillera-profit-air-sport-talla-xl_image-1.jpg?v=637438110310570000"
+                  },
+                  {
+                        "name": "farmazziti",
+                        "description": "Termómetro digital con memoria",
+                        "id": "10",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/206172-600-600/219747_tobillera-profit-air-sport-talla-xl_image-1.jpg?v=637438110310570000"
+                  }
+            ],
+            "farmacia":[
+                  {
+                        "name": "bialcohol",
+                        "description": "Alcohol al 70% x500 ml",
+                        "id": "1",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/206172-600-600/219747_tobillera-profit-air-sport-talla-xl_image-1.jpg?v=637438110310570000"
+                  },
+                  {
+                        "name": "aseplus",
+                        "description": "Sanitizante en spry al 70% x60 ml",
+                        "id": "2",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/206172-600-600/219747_tobillera-profit-air-sport-talla-xl_image-1.jpg?v=637438110310570000"
+                  },
+                  {
+                        "name": "gezzi",
+                        "description": "Alcohol en gel antibacteriano x100 ml",
+                        "id": "3",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/206172-600-600/219747_tobillera-profit-air-sport-talla-xl_image-1.jpg?v=637438110310570000"
+                  },
+                  {
+                        "name": "atom-protect",
+                        "description": "Barbijo bicapa bioactivo",
+                        "id": "4",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/206172-600-600/219747_tobillera-profit-air-sport-talla-xl_image-1.jpg?v=637438110310570000"
+                  },
+                  {
+                        "name": "farmazziti",
+                        "description": "Barras de azufre en canutos para contracturas",
+                        "id": "5",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/206172-600-600/219747_tobillera-profit-air-sport-talla-xl_image-1.jpg?v=637438110310570000"
+                  },
+                  {
+                        "name": "simplicity",
+                        "description": "Botiquin de primeros auxilios",
+                        "id": "6",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/206172-600-600/219747_tobillera-profit-air-sport-talla-xl_image-1.jpg?v=637438110310570000"
+                  },
+                  {
+                        "name": "nexcare",
+                        "description": "Cinta adhesiva microporosa",
+                        "id": "7",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/206172-600-600/219747_tobillera-profit-air-sport-talla-xl_image-1.jpg?v=637438110310570000"
+                  },
+                  {
+                        "name": "curitas",
+                        "description": "Apósitos adhesivos de tela elástica",
+                        "id": "8",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/206172-600-600/219747_tobillera-profit-air-sport-talla-xl_image-1.jpg?v=637438110310570000"
+                  },
+                  {
+                        "name": "farmazziti",
+                        "description": "Envase estéril para análisis 125cc",
+                        "id": "9",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/206172-600-600/219747_tobillera-profit-air-sport-talla-xl_image-1.jpg?v=637438110310570000"
+                  },
+                  {
+                        "name": "farmazziti",
+                        "description": "Gasa en 10 sobres de 16 trozos c/u",
+                        "id": "10",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/206172-600-600/219747_tobillera-profit-air-sport-talla-xl_image-1.jpg?v=637438110310570000"
+                  },
+                  {
+                        "name": "renu",
+                        "description": "Gotas lubricantes y rehumectantes RENU Plus para lentes de contacto",
+                        "id": "11",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/206172-600-600/219747_tobillera-profit-air-sport-talla-xl_image-1.jpg?v=637438110310570000"
+                  },
+                  {
+                        "name": "bremen",
+                        "description": "Guantes de látex para examinar x100 unidades",
+                        "id": "12",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/206172-600-600/219747_tobillera-profit-air-sport-talla-xl_image-1.jpg?v=637438110310570000"
+                  },
+                  {
+                        "name": "nopucid",
+                        "description": "Loción NOPUCID Touch x145 ml",
+                        "id": "13",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/206172-600-600/219747_tobillera-profit-air-sport-talla-xl_image-1.jpg?v=637438110310570000"
+                  },
+                  {
+                        "name": "assy 200",
+                        "description": "Peine de acero inoxidable con dientes microacanalados para control de pediculosis",
+                        "id": "14",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/206172-600-600/219747_tobillera-profit-air-sport-talla-xl_image-1.jpg?v=637438110310570000"
+                  },
+                  {
+                        "name": "nuk",
+                        "description": "Descongestionador nasal",
+                        "id": "15",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/206172-600-600/219747_tobillera-profit-air-sport-talla-xl_image-1.jpg?v=637438110310570000"
+                  },
+                  {
+                        "name": "farmazziti",
+                        "description": "Venda elástica de algodón",
+                        "id": "16",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/206172-600-600/219747_tobillera-profit-air-sport-talla-xl_image-1.jpg?v=637438110310570000"
+                  }
+            ],
+            "saludSexual":[
+                  {
+                        "name": "prime",
+                        "description": "Gel sensual y masajeador PRIME Touch x200 ml",
+                        "id": "1",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/206172-600-600/219747_tobillera-profit-air-sport-talla-xl_image-1.jpg?v=637438110310570000"
+                  },
+                  {
+                        "name": "tulipán",
+                        "description": "Gel íntimo Efecto Calor x30 ml",
+                        "id": "2",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/206172-600-600/219747_tobillera-profit-air-sport-talla-xl_image-1.jpg?v=637438110310570000"
+                  },
+                  {
+                        "name": "studio 9",
+                        "description": "Masajeador manual estimulante",
+                        "id": "3",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/206172-600-600/219747_tobillera-profit-air-sport-talla-xl_image-1.jpg?v=637438110310570000"
+                  },
+                  {
+                        "name": "multi-o",
+                        "description": "Gel íntimo MULTI-O Hot efecto caliente",
+                        "id": "4",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/206172-600-600/219747_tobillera-profit-air-sport-talla-xl_image-1.jpg?v=637438110310570000"
+                  },
+                  {
+                        "name": "prime",
+                        "description": "Preservativos PRIME ZERO hiper finos X12 unidades",
+                        "id": "5",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/206172-600-600/219747_tobillera-profit-air-sport-talla-xl_image-1.jpg?v=637438110310570000"
+                  },
+                  {
+                        "name": "prime",
+                        "description": "Preservativos sin látex PRIME SKYN X12 unidades",
+                        "id": "6",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/206172-600-600/219747_tobillera-profit-air-sport-talla-xl_image-1.jpg?v=637438110310570000"
+                  },
+                  {
+                        "name": "prime",
+                        "description": "Preservativos PRIME super finos X12 unidades",
+                        "id": "7",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/206172-600-600/219747_tobillera-profit-air-sport-talla-xl_image-1.jpg?v=637438110310570000"
+                  },
+                  {
+                        "name": "prime",
+                        "description": "Preservativos PRIME ultrafinos X12 unidades",
+                        "id": "8",
+                        "image": "https://farmacityar.vteximg.com.br/arquivos/ids/206172-600-600/219747_tobillera-profit-air-sport-talla-xl_image-1.jpg?v=637438110310570000"
+                  }
+            ]
+      },
+      "obrasSociales": [
+            {
+                  "name": "Jerarquicos Salud",
+                  "id": "095",
+                  "image": "https://tuquejasuma.com/media/images/entity10598_square.png"
+            },
+            {
+                  "name": "OSDE",
+                  "id": "094",
+                  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Logo_OSDE_wikipedia.png"
+            },
+            {
+                  "name": "OSEP",
+                  "id": "093",
+                  "image": "https://www.mendoza.gov.ar/wp-content/uploads/sites/7/2017/11/Logo-OSEP.jpg"
+            },
+            {
+                  "name": "PAMI",
+                  "id": "092",
+                  "image": "http://www.casilda.gov.ar/web/wp-content/uploads/2017/09/pami-logo-2017.jpg"
+            },
+            {
+                  "name": "Sancor Salud",
+                  "id": "098",
+                  "image": "https://periodicotribuna.com.ar/aimages/201707/18051-un-engano-llamado-sancor-salud-696x603.jpg"
+            },
+            {
+                  "name": "Swiss Medical",
+                  "id": "091",
+                  "image": "https://cmfq.org.ar/fotos_notas/120512520a1.jpg"
+            }
+      ]
+}

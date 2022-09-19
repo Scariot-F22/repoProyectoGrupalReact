@@ -1,4 +1,4 @@
-import { Link, NavLink } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 import { HiOutlineUser, HiOutlineSearch, HiOutlineShoppingCart, HiMenu, HiX, HiChevronRight } from "react-icons/hi";
 import { stylesNavBar } from "./StylesNav";
 import { itemsLInksNavBar } from "../../Data/dataLinksNavbar";
@@ -31,7 +31,7 @@ const NavBar = () => {
         <>
             <nav className={nav}>
                 <div className={containerNav}>
-                    <img src={logo} alt="logo Farmazziti" width="150" />
+                    <NavLink to="/"><img src={logo} alt="logo Farmazziti" width="150" /></NavLink>
 
                     {/* iconos modo movile */}
 

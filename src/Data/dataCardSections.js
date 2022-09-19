@@ -10,10 +10,10 @@ import desodorantes from "../fotos/desodorantes.jpg";
 import cepillos from "../fotos/cepillos.webp";
 import cabello from "../fotos/cabello.webp";
 import pañalesAdultos from "../fotos/pañalesAdultos.jpg";
-import medicamentos from "../fotos/medicamentos.jpg";
 import salud from "../fotos/salud.webp";
 import preservativos from "../fotos/preservativos.jpg"
 import electroSalud from "../fotos/electroSalud.webp";
+import nutricionDeportes from "../fotos/nutricionDeportes.webp";
 
 export const dataCardSections = {
     bebesMamas:[
@@ -35,7 +35,7 @@ export const dataCardSections = {
         {id:4, img: pañalesAdultos, title: "Adultos", description: "incontingencia-pañales y ropa interior-toallas húmedas"}
     ],
     saludFarmacia:[
-        {id:1, img: medicamentos, title: "Medicamentos", description: "medicamentos sin receta médica-reserva de medicamentos bajo receta"},
+        {id:1, img: nutricionDeportes, title: "nutricion y deportes", description: "suplementos dietarios,nutricionales y deportivos-fitnes"},
         {id:2, img: salud, title: "Farmacia", description: "primeros auxilios-pediculosis-"},
         {id:3, img: electroSalud , title: "Electro Salud", description: "termómetros-balanzas-tensiómetros-nebulizadores"},
         {id:4, img: preservativos, title: "Salud Sexual", description: "preservativos-lubricantes y geles íntimos"}
