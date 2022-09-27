@@ -1,9 +1,6 @@
 const {Schema} = require ('mongoose');
 const mongoose = require ('mongoose');
 
-
-
-
 //ESQUEMA BD
 const bebesMamasSchema= new Schema({
     

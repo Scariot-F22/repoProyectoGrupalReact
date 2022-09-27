@@ -30,7 +30,9 @@ productRoutes.post("/bebesMamas", (req, res) => {
         estado: "success",
         mensaje: "PRODUCTOS ENCONTRADO",
         data: result
+       
       })
+      
     }
   })
 })
