@@ -1,7 +1,7 @@
 const mongoose = require ('mongoose');
 
 
-const mongoConnection = mongoose.connect ('mongodb+srv://BDReact:BDReact123@bdreact.wh9tbis.mongodb.net/test',
+const mongoConnection = mongoose.connect ('mongodb+srv://BDReact:BDReact123@bdreact.wh9tbis.mongodb.net/BDReact',
    {useUnifiedTopology: true, useNewUrlParser:true},
     (error)=>{
         if(error){
