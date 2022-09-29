@@ -17,10 +17,10 @@ import nutricionDeportes from "../fotos/nutricionDeportes.webp";
 
 export const dataCardSections = {
     bebesMamas:[
-        {id:2, img: maternidad, title: "post-maternidad", description: "protectores mamarios-apósitos-pezoneras-cremas"},
-        {id:3, img: accesoriosBebes, title: "Accesorios de bebés", description: "mamaderas-chupetes-mordillos-sonajeros"},
-        {id:4, img: bebes, title: "higiene de bebés", description: "pañales-toallas húmedas-jabones-shampoo-acondicionadores-cremas-óleos"},
-        {id:5, img: nutricioninfantil, title: "nutrición infantil", description: "Leches-fórmulas-alimentos"}
+        {id:2, img: maternidad, title: "post-maternidad", description: "protectores mamarios-apósitos-pezoneras-cremas",path: "maternidad"},
+        {id:3, img: accesoriosBebes, title: "Accesorios de bebés", description: "mamaderas-chupetes-mordillos-sonajeros", path: "accesorios_bebes"},
+        {id:4, img: bebes, title: "higiene de bebés", description: "pañales-toallas húmedas-jabones-shampoo-acondicionadores-cremas-óleos",path: "higiene_bebe"},
+        {id:5, img: nutricioninfantil, title: "nutrición infantil", description: "Leches-fórmulas-alimentos",path: "nutricion"}
     ],
     belleza:[
         {id:1, img: perfumeria , title: "Perfumería", description: "hombres-mujeres-colonias-body splash"},

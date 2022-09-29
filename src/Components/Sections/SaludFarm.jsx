@@ -1,4 +1,4 @@
-import CardSections from "./CardSections";
+import CardSections from "../Card/CardSections";
 import { dataCardSections } from "../../Data/dataCardSections";
 import { stylesSections } from "./stylesSections";
 
@@ -14,7 +14,7 @@ const SaludFarm = () => {
                 <h1 className={h1}>Categorías:</h1>
             </div>
             <div className={containCompCard}>
-                {saludFarmacia.map(item => <CardSections key={item.id} item={item} />)}
+                {saludFarmacia.map(item => <CardSections key={item.id} item={item}  path={item.path}/>)}
             </div>
         </div>
     )

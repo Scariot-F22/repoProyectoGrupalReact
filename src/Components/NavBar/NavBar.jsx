@@ -1,13 +1,13 @@
-import { NavLink } from "react-router-dom";
+import { NavLink, Link } from "react-router-dom";
 import { HiOutlineUser, HiOutlineSearch, HiOutlineShoppingCart, HiMenu, HiX, HiChevronRight } from "react-icons/hi";
 import { stylesNavBar } from "./StylesNav";
-import { itemsLInksNavBar } from "../../Data/dataLinksNavbar";
+import { itemsLinksNavBar } from "../../Data/dataLinksNavbar";
 import { useState } from "react";
 import logo from "../../fotos/logo.jpeg"
 
 
 const { nav, containerNav, buttonHamburger, iconsHamburger, stylesContainerItems, stylesIcons, stylesLInk, staylesItemsLinks, iconChevronDown } = stylesNavBar;
-const { itemsBelleza, itemsCuidadoPersonal, itemsMamasBebes, itemsMobile, itemsSaludFarm } = itemsLInksNavBar;
+const { itemsBelleza, itemsCuidadoPersonal, itemsMamasBebes, itemsMobile, itemsSaludFarm } = itemsLinksNavBar;
 
 
 const NavBar = () => {
@@ -31,7 +31,7 @@ const NavBar = () => {
         <>
             <nav className={nav}>
                 <div className={containerNav}>
-                    <NavLink to="/"><img src={logo} alt="logo Farmazziti" width="150" /></NavLink>
+                    <Link to="/"><img src={logo} alt="logo Farmazziti" width="150" /></Link>
 
                     {/* iconos modo movile */}
 
@@ -62,35 +62,32 @@ const NavBar = () => {
                         </div>}
 
                         {/* visibilidad modo desktop */}
-
-                        <div className="flex flex-grow invisible pt-2 justify-evenly lg:visible max-h-8  z-50">
+                        
+                        <div className="z-50 flex flex-grow invisible pt-2 justify-evenly lg:visible max-h-8">
                             <button className={stylesLInk} onMouseOver={() => setVisible(true)} onMouseOut={() => setVisible(false)}>
                                 <NavLink to="Belleza" activeClassName="active"> Belleza y Perfumería{iconChevronDown}</NavLink>
                                 {visible && <div className={stylesContainerItems}>
-                                    {itemsBelleza.map(i => <a key={i.id} className={staylesItemsLinks}>{i.item}</a>)}
+                                    {itemsBelleza.map(i => <Link to={i.path} key={i.id} className={staylesItemsLinks}>{i.item}</Link>)}
                                 </div>}
                             </button>
                             <button className={stylesNavBar.stylesLInk} onMouseOver={() => setVisible2(true)} onMouseOut={() => setVisible2(false)}>
                                 <NavLink to="Cuidado_Personal" activeClassName="active"> Cuidado Personal{iconChevronDown}</NavLink>
                                 {visible2 && <div className={stylesContainerItems}>
-                                    {itemsCuidadoPersonal.map(i => <a key={i.id} className={staylesItemsLinks}>{i.item}</a>)}
+                                    {itemsCuidadoPersonal.map(i => <Link to={i.path} key={i.id} className={staylesItemsLinks}>{i.item}</Link>)}
                                 </div>}
                             </button>
                             <button className={stylesLInk} onMouseOver={() => setVisible3(true)} onMouseOut={() => setVisible3(false)}>
                                 <NavLink to="Bebes_y_Mamas" activeClassName="active"> Bebés y Maternidad{iconChevronDown}</NavLink>
                                 {visible3 && <div className={stylesContainerItems}>
-                                    {itemsMamasBebes.map(i => <a key={i.id} className={staylesItemsLinks}>{i.item}</a>)}
+                                    {itemsMamasBebes.map(i => <Link to={i.path} key={i.id} className={staylesItemsLinks}>{i.item}</Link>)}
                                 </div>}
                             </button>
                             <button className={stylesLInk} onMouseOver={() => setVisible4(true)} onMouseOut={() => setVisible4(false)}>
                                 <NavLink to="/Salud_y_Farmacia" activeClassName="active"> Salud y Farmacia{iconChevronDown}</NavLink>
                                 {visible4 && <div className={stylesContainerItems}>
-                                    {itemsSaludFarm.map(i => <a key={i.id} className={staylesItemsLinks}>{i.item}</a>)}
+                                    {itemsSaludFarm.map(i => <Link to={i.path} key={i.id} className={staylesItemsLinks}>{i.item}</Link>)}
                                 </div>}
                             </button>
-                            <NavLink to='/Ofertas' className={stylesLInk} activeClassName="active">
-                                Ofertas
-                            </NavLink>
                         </div>
 
                         {/* iconos modo desktop */}
@@ -103,6 +100,7 @@ const NavBar = () => {
                     </div>
                 </div>
             </nav>
+          
         </>
     )
 }

@@ -1,4 +1,4 @@
-import CardSections from "./CardSections";
+import CardSections from "../Card/CardSections";
 import { dataCardSections } from "../../Data/dataCardSections";
 import seccCuidPers from "../../fotos/seccCuidPers.jpg";
 import { stylesSections } from "./stylesSections";
@@ -14,7 +14,7 @@ const CuidadoPersonal = () => {
                 <h1 className={h1}>Categorías:</h1>
             </div>
             <div className={containCompCard}>
-                {cuidadoPersonal.map(item => <CardSections key={item.id} item={item} />)}
+                {cuidadoPersonal.map(item => <CardSections key={item.id} item={item}  path={item.path}/>)}
             </div>
         </div>
     )
