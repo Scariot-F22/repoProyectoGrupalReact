@@ -31,7 +31,7 @@ const Footer = () => {
                 </div>
             </div>
             <div className={legend}>
-                <span className="text-sm text-slate-200 text-center">© 2022 <a href="https://flowbite.com/">Flowbite™</a>. All Rights Reserved.
+                <span className="text-sm text-slate-200 text-center">© 2022 <a href="https://flowbite.com/">Farmazziti™</a>. All Rights Reserved.
                 </span>
                 <div className="mt-4 space-x-6 md:mt-0 text-center">
                     {dataIconsFooter.map(item => <a href="#" className={stylesNavBar.stylesIcons} key={item.id}>{item.icon}</a>)}

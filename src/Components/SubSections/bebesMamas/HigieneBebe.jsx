@@ -1,30 +1,31 @@
 import axios from "axios";
 import { useEffect, useState } from "react";
+import { useCustomizeContext } from "../../../context/Context";
 import CardSubSections from "../../Card/CardSubSections";
+import { gridSubSections } from "../gridSubSections";
+import { TYPES } from "../../../Cart/ShoppingAction";
 
 const HigieneBebe = () => {
+  const { state, dispatch } = useCustomizeContext();
+  const { higieneBebe } = state;
 
-    const [query, setQuery] = useState([]);
+  const requestGet = async () => {
+    const url = "http://localhost:5000/higieneBebe",
+      res = await axios.get(url);
+    dispatch({ type: TYPES.READ_STATE_PRODUCTS, payload: res.data });
+  };
 
-    const request = async ()=>{
-
-        const url = "http://localhost:5000/bebesMamas",
-          res = await axios.get(url),
-          resData = await res.data.higieneBebe;
-        setQuery(resData)
-    };
-    
-
-    useEffect(() => {
-      request()
-    }, [])
-    
+  useEffect(() => {
+    requestGet();
+  }, []);
 
   return (
-    <div>
-        {query.map(date => <CardSubSections key={date.id} date={date}/>)}
+    <div className={gridSubSections}>
+      {higieneBebe.map((date) => (
+        <CardSubSections key={date.id} date={date} />
+      ))}
     </div>
-  )
-}
+  );
+};
 
 export default HigieneBebe;

@@ -3,7 +3,7 @@ import { HiOutlineUser, HiOutlineSearch, HiOutlineShoppingCart, HiMenu, HiX, HiC
 import { stylesNavBar } from "./StylesNav";
 import { itemsLinksNavBar } from "../../Data/dataLinksNavbar";
 import { useState } from "react";
-import logo from "../../fotos/logo.jpeg"
+import logo from "../../fotos/logo.png"
 
 
 const { nav, containerNav, buttonHamburger, iconsHamburger, stylesContainerItems, stylesIcons, stylesLInk, staylesItemsLinks, iconChevronDown } = stylesNavBar;
@@ -31,14 +31,14 @@ const NavBar = () => {
         <>
             <nav className={nav}>
                 <div className={containerNav}>
-                    <Link to="/"><img src={logo} alt="logo Farmazziti" width="150" /></Link>
+                    <Link to="/"><img className="flex shrink" src={logo} alt="logo Farmazziti" width="140" /></Link>
 
                     {/* iconos modo movile */}
 
                     <div className="flex mx-auto tracking-tight lg:hidden">
                         <a href="#" className={stylesIcons}><HiOutlineSearch /></a>
                         <a href="#" className={stylesIcons}><HiOutlineUser /></a>
-                        <a href="#" className={stylesIcons}><HiOutlineShoppingCart /></a>
+                        <Link to='/carro_compra' className={stylesIcons}><HiOutlineShoppingCart /></Link>
                     </div>
                 </div>
 
@@ -88,6 +88,7 @@ const NavBar = () => {
                                     {itemsSaludFarm.map(i => <Link to={i.path} key={i.id} className={staylesItemsLinks}>{i.item}</Link>)}
                                 </div>}
                             </button>
+                            <NavLink to="/contacto" activeClassName="active" className={stylesLInk}>Contacto</NavLink>
                         </div>
 
                         {/* iconos modo desktop */}
@@ -95,7 +96,7 @@ const NavBar = () => {
                         <div className="invisible lg:visible max-h-px">
                             <a href="#" className={stylesIcons}><HiOutlineSearch /></a>
                             <a href="#" className={stylesIcons}><HiOutlineUser /></a>
-                            <a href="#" className={stylesIcons}><HiOutlineShoppingCart /></a>
+                            <Link to='/carro_compra' className={stylesIcons}><HiOutlineShoppingCart /></Link>
                         </div>
                     </div>
                 </div>
@@ -105,4 +106,4 @@ const NavBar = () => {
     )
 }
 
-export default NavBar
+export default NavBar;

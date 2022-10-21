@@ -14,6 +14,7 @@ import ElectroSalud from "../Components/SubSections/saludFarmacia/ElectroSalud";
 import Farmacia from "../Components/SubSections/saludFarmacia/Farmacia";
 import NutricionDeportes from "../Components/SubSections/saludFarmacia/NutricionDeportes";
 import SaludSexual from "../Components/SubSections/saludFarmacia/SaludSexual";
+import { ShoppingContext } from "../Cart/ShoppingReducer";
 
 
 export const itemsLinksNavBar = {
@@ -25,7 +26,7 @@ export const itemsLinksNavBar = {
     ],
     itemsCuidadoPersonal: [
         { item: "Highiene Personal", id: 1, path: "higiene_personal", element: <HigienePersonal />},
-        { item: "Cuidado Oral", id: 2, path: "cuidado_oral", element: <CuidadoOral />},
+        { item: "Cuidado Oral", id: 2, path: "cuidado_oral", element:<CuidadoOral /> },
         { item: "Cuidado Capilar", id: 3, path: "pelo", element: <Pelo /> },
         { item: "Adultos", id: 4, path: "adultos", element: <Adultos /> }
     ],
