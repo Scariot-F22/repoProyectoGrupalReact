@@ -3,7 +3,7 @@ import {HiChevronDown} from  "react-icons/hi";
 
 export let stylesNavBar = {
     nav: "flex flex-wrap items-center justify-between p-6 mx-auto bg-emerald-600 fixed w-screen z-50",
-    img: "flex items-center justify-between w-4/5 lg:w-1/6 pb-3 mr-6 lg:w-auto h-1/5",
+    img: "flex items-center justify-between w-4/5 md:w-3/5 lg:w-1/6 pb-3 mr-6 lg:w-auto h-1/5",
     buttonHamburger: "flex items-center px-3 py-2 text-teal-200 border border-teal-400 rounded hover:text-white hover:border-white",
     iconsHamburger: "w-3 h-3 delay-1000 fill-current",
     stylesLInk : "block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white w-auto lg:w-40",

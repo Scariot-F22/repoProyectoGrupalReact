@@ -86,7 +86,7 @@ const NavBar = () => {
         <div className={img}>
           <Link to="/">
             <img
-              className="mr-5 md:w-32 md:mr-10"
+              className="mr-5 md:mr-10"
               src={logo}
               alt="logo Farmazziti"
             />
