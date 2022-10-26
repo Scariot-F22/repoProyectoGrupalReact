@@ -7,12 +7,11 @@ import { useCustomizeContext } from "../../../context/Context";
 
 const CuidadoOral = () => {
   const {state, dispatch} = useCustomizeContext();
-  const { cuidadoOral, cart } = state;
+  const { cuidadoOral } = state;
   
   const requestGet = async () => {
     const url = "http://localhost:5000/cuidadoOral",
       res = await axios.get(url);
-      console.log(res)
     dispatch({ type: TYPES.READ_STATE_PRODUCTS, payload: res.data });//desde CuidadoOral
   };
 

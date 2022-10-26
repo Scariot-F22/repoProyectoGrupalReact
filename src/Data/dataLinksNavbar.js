@@ -41,11 +41,5 @@ export const itemsLinksNavBar = {
         { item: "Deportes y Nutrición", id: 3, path: "deportes_nutricion", element: <NutricionDeportes /> },
         { item: "Electrosalud", id: 4, path: "electrosalud", element: <ElectroSalud /> },
         { item: "Salud Sexual", id: 5, path: "salud_sexual", element: <SaludSexual /> }
-    ],
-    itemsMobile: [
-        { item: "Belleza", id: 2, path: "Belleza" },
-        { item: "Cuidado Personal", id: 3, path: "Cuidado_Personal" },
-        { item: "Bebés y Maternidad", id: 4, path: "Bebes_y_Mamas" },
-        { item: "Salud y Farmacia", id: 5, path: "Salud_y_Farmacia" },
     ]
 }

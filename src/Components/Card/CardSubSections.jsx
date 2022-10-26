@@ -12,7 +12,7 @@ const CardSubSections = ({ date }) => {
         <h5 className={descr}>{description}</h5>
         <div className={containerBuy}>
           <span className={cart}>${price}</span>
-          <ButtonCard id={id} button={button}  />
+          <ButtonCard id={id} button={button} date={date} />
         </div>
       </div>
     </div>
@@ -29,8 +29,7 @@ const stylesCard = {
   descr: "text-sm font-semibold tracking-tighter text-gray-500",
   containerBuy: "flex items-center justify-between",
   cart: "text-xl font-bold text-gray-700 font-medium",
-  button:
-    "text-white bg-green-500 hover:bg-green-700 focus:ring-2 focus:ring-blue-300 font-medium rounded-lg text-2xl px-8 py-2.5 mt-5 text-center delay-100 shrink",
+  button: "text-white bg-green-500 hover:bg-green-700 focus:ring-2 focus:ring-blue-300 font-medium rounded-lg text-2xl px-8 py-2.5 mt-5 text-center delay-100 shrink",
 };
 
 const {
