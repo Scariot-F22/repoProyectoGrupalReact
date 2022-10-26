@@ -43,7 +43,7 @@ const ButtonCard = ({ button, date }) => {
           <p className="text-white">{quantity}</p>
           <button
             className="text-white hover:text-green-500"
-            onClick={() => editQuantity(date, alert('producto añadido exitosamente al carrito de compras'))}
+            onClick={() => editQuantity(date)}
           >
             <HiPlus />
           </button>

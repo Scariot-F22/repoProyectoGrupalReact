@@ -1235,14 +1235,5 @@
       "price": 799
     }
   ],
-  "cart": [
-    {
-      "name": "47 street",
-      "description": "Fearless ilove 47 x50 ml",
-      "id": 1666823710292,
-      "image": "https://i.postimg.cc/Bv9wBz4b/47-street-ni-a.webp",
-      "price": 2799,
-      "quantity": 1
-    }
-  ]
+  "cart": []
 }
